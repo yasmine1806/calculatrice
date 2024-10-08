@@ -1,0 +1,35 @@
+body {
+    background-color: lightpink;
+  }
+  
+  h1 {
+    color: rgb(90, 9, 47);
+    text-align: center;
+     font-size: 70px;
+  }
+  
+  p {
+    color: rgb(90, 9, 47);
+    font-family: verdana;
+    font-size: 40px;
+  }
+
+  input{
+    border: 3px solid rgba(62, 66, 192, 0.384);
+    margin: 10px 10px;
+    padding: 10px;
+    width:160px;
+    margin-bottom:10px;
+  }
+
+  #choix_table{
+    background-color: rgba(174, 202, 224, 0.979);
+  }
+
+  #choix_min{
+    background-color: rgba(174, 224, 195, 0.979);
+  }
+
+  #choix_max{
+    background-color: rgba(224, 177, 174, 0.979);
+  }
